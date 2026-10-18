@@ -1,0 +1,13 @@
+{
+  "domain": "cwfis",
+  "name": "Canadian Wildland Fire Information System",
+  "codeowners": ["@soullink9"],
+  "config_flow": true,
+  "documentation": "https://github.com/soullink9/HomeAssistant-Canadian_Wildland_Fire_Information_System_-CWFIS-",
+  "integration_type": "service",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/soullink9/HomeAssistant-Canadian_Wildland_Fire_Information_System_-CWFIS-/issues",
+  "requirements": [],
+  "single_config_entry": true,
+  "version": "1.0.0"
+}
