@@ -1,5 +1,11 @@
 {
   "config": {
+    "step": {
+      "user": {
+        "title": "Canadian Wildland Fire Information System",
+        "description": "Adds CWFIS wildfire data using your Home location. Use Configure afterwards to change the settings."
+      }
+    },
     "abort": {
       "single_instance_allowed": "CWFIS is already set up. Use Configure on the existing entry to change its settings."
     }
